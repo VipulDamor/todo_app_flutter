@@ -6,13 +6,20 @@ A new Flutter project.
 
  <div class="row">
   <div class="column">
-    <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259468.png" width="350"  title="hover text">
+  <p align="center">
+   <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259468.png" width="350"  title="hover text">
+   </p>
+
   </div>
   <div class="column">
+   <p align="center">
     <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259476.png" width="350"  title="hover text">
+    </p>
   </div>
 
 </div>
+
+
 
 
 
