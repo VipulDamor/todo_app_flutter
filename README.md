@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-<p align="center">
-  <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259468.png" width="350"  title="hover text">
- </p>
+ <div class="row">
+  <div class="column">
+    <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259468.png" width="350"  title="hover text">
+  </div>
+  <div class="column">
+    <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259476.png" width="350"  title="hover text">
+  </div>
 
- <p align="center">
-   <img src="https://github.com/VipulDamor/todo_app_flutter/blob/master/images/Screenshot_1631259476.png" width="350"  title="hover text">
-  </p>
+</div>
+
+
 
 
 This project is a starting point for a Flutter application.
