@@ -4,6 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
+<p align="center">
+  <img src="https://github.com/VipulDamor/flutter_bmi_calculator/blob/master/images/Screenshot_1631259468.png" width="350"  title="hover text">
+ </p>
+
+ <p align="center">
+   <img src="https://github.com/VipulDamor/flutter_bmi_calculator/blob/master/images/Screenshot_1631259476.png" width="350"  title="hover text">
+  </p>
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
